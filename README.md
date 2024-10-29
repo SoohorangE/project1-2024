@@ -4,6 +4,7 @@
 
 #openai
 
+
 #openweathermap
 서울의 현재 날씨 표시
 [실습해보기](https://api.openweathermap.org/data/2.5/weather?q=Seoul&units=metric&appid=7d96bc5108f52b80e2d9075a369b9f35)
@@ -51,18 +52,7 @@ function get_weather()
 ```
 
 #google cloud vision
+![캡처](https://github.com/user-attachments/assets/9b463231-ae78-490b-9a50-24fe8795f143)
 
-개발순서
-1. 소스 수정
-2. 소스 저장
-3. 스테이지
-4. 커밋, 푸쉬
-5. 커밋 메세지
-
-
-두번째 수정
-
-2024-09-19 깃허브 연동 실습
-로컬에서 편집함
-
+[소스코드 및 설명](https://github.com/SoohorangE/2_1term_capstone_assignment)
 
