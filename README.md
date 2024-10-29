@@ -8,6 +8,7 @@
 서울의 현재 날씨 표시
 [실습해보기](https://api.openweathermap.org/data/2.5/weather?q=Seoul&units=metric&appid=7d96bc5108f52b80e2d9075a369b9f35)
 
+d
 ```
 function get_weather()
 {
